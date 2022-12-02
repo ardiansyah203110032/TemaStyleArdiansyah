@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TemaArdiansyah</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="night">Mode malam</string>
+    <string name="day">Mode siang</string>
+    <string name="description">Pilih foto untuk menerapkan foto</string>
+    <string name="the_theme">Tema </string>
+    <string name="is_active">Aktivitas</string>
+</resources>
